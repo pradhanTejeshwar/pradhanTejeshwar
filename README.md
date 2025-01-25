@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+https://github-readme-activity-graph.vercel.app/graph?username=pradhanTejeshwar&bg_color=000000&color=ffff80&line=ffffff&point=00ff40&area=true&hide_border=true
 <!--
 **pradhanTejeshwar/pradhanTejeshwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
