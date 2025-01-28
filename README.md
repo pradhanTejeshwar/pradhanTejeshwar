@@ -52,8 +52,8 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pradhanTejeshwar&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)
-[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=pradhanTejeshwar&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D&card_width=450)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pradhanTejeshwar&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=450)
+[![](https://git-hub-streak-stats.vercel.app?user=pradhanTejeshwar&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D&card_width=450)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pradhanTejeshwar&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=pie&card_width=450&langs_count=20&custom_title=Languages&exclude_repo=Data-Science)
 
 
 ## 🏆 GitHub Trophies
