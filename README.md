@@ -24,7 +24,7 @@
 
 <center>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://dribbble.com/itachiteju" target="blank"><img align="center" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="itachiteju"/></a>
 <a href="https://www.freelancer.com/u/TejPradhan" target="blank"><img align="center" src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white"/></a>
@@ -40,8 +40,6 @@
 </center>
 
 ---
-
-<center>
 
 # 💻 My Expertise:
 ![Apex](https://img.shields.io/badge/Apex-blue?style=for-the-badge&logo=salesforce&logoColor=white) 
@@ -62,11 +60,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Salesforce](https://img.shields.io/badge/Salesforce-blue?style=for-the-badge&logo=salesforce&logoColor=white) 
 
-</center>
-
 ---
-
-<center>
 
 # ✔ Worked with: 
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
@@ -107,44 +101,27 @@
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 
-</center>
-
 ---
-
-<center>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pradhanTejeshwar&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)
 [![](https://git-hub-streak-stats.vercel.app?user=pradhanTejeshwar&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D&card_width=450)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pradhanTejeshwar&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=pie&card_width=450&langs_count=20&custom_title=Languages&exclude_repo=Data-Science)
 
-</center>
-
 ---
-
-<center>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pradhanTejeshwar&theme=github_dark&no-frame=false&no-bg=true&margin-w=3)
 
-</center>
-
 ---
-
-<center>
 
 ### ✍️ Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-</center>
-
 ---
-<center>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=pradhanTejeshwar&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
-
-</center>
 
 ---
 
