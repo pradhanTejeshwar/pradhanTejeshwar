@@ -130,7 +130,7 @@
 <a href="https://discord.gg/dtQ3nTgHNX" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="trailheadtoday"/></a>
 <a href="https://kick.com/acktvt" target="blank"><img align="center" src="https://img.shields.io/badge/kick-53FC18?style=for-the-badge&logo=kick&logoColor=white" alt="trailheadtoday"/></a>
 <a href="https://linktr.ee/acktvt" target="blank"><img align="center" src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="tejeshwarpradhan"/></a>
-<a href="https://www.youtube.com/@TrailheadToday" target="blank"><img align="center" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="trailheadtoday"/></a>
+<a href="https://in.pinterest.com/tejeshwarpradha/" target="blank"><img align="center" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="trailheadtoday"/></a>
 <a href="https://www.twitch.tv/acktvt" target="blank"><img align="center" src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="trailheadtoday"/></a>
 <a href="https://wa.me/+918617544275" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="trailheadtoday"/></a>
 <a href="https://www.youtube.com/@acktvt" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="trailheadtoday"/></a>
