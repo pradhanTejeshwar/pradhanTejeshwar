@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on Vlocity and 
 <a href="https://www.salesforce.com/trailblazer/tpradhan17" target="blank"><img align="center" src="https://img.shields.io/badge/Salesforce-blue?style=for-the-badge&logo=salesforce&logoColor=white" alt="pradhanTejeshwar"/></a>
 
-- 🤝 I’m looking for help with **landing a Great Job in Salesforce ecosystem**
+<!-- - 🤝 I’m looking for help with **landing a Great Job in Salesforce ecosystem** -->
 
 - 👨‍💻 All of my projects are available at 
 <a href="https://linktr.ee/tejeshwarpradhan" target="blank"><img align="center" src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="tejeshwarpradhan"/></a>
